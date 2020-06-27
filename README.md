@@ -26,4 +26,7 @@
  After this logic operations, `RSSParsing.aspx.cs` Redirect page to `Homepage.aspx` and Homepage reads news from session and create HTML elements dynamically in that file and show that. Also there is a filter options on the left sidebar. You can filter topics of News. Last page is `NewsDetail.aspx` which shows the details of News such as author, pubDate, title and description.
  
  
-![News Project](https://i.ibb.co/p2tYxKC/news.gif)
+![Homepage](https://i.ibb.co/HBtnb0b/image.png)
+ 
+ 
+![NewsDetail](https://i.ibb.co/F0BRyyZ/image.png)
