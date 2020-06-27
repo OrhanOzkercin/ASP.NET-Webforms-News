@@ -1,0 +1,51 @@
+2020-06-27 17:15:09.290 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:09.384 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:09.431 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:09.495 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:09.543 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:09.607 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:09.655 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:09.717 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:09.764 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:09.826 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:09.873 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:09.934 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:09.981 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.044 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.091 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.151 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.198 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.276 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.325 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.387 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.433 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.495 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.542 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.605 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.654 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.716 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.763 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.824 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.869 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:10.931 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:10.978 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:11.040 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:11.086 +03:00 [DBG] Database de haber daha önceden eklenmediği verisi okundu
+2020-06-27 17:15:11.147 +03:00 [DBG] Veritabanına haber eklendi
+2020-06-27 17:15:11.193 +03:00 [DBG] Database de haber daha önceden eklediği verisi okundu
+2020-06-27 17:15:11.300 +03:00 [DBG] Database de haber daha önceden eklediği verisi okundu
+2020-06-27 17:15:11.394 +03:00 [DBG] Database de haber daha önceden eklediği verisi okundu
+2020-06-27 17:15:11.440 +03:00 [DBG] Rssden veriler çekildi
+2020-06-27 17:15:11.441 +03:00 [DBG] Session'a veriler eklendi
+2020-06-27 17:15:11.515 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:16:50.747 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:16:54.675 +03:00 [DBG] Tüm haberler databaseden çekildi.
+2020-06-27 17:16:54.677 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:16:56.046 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:16:56.103 +03:00 [DBG] Tüm haberler databaseden çekildi.
+2020-06-27 17:16:57.842 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:16:57.893 +03:00 [DBG] Tüm haberler databaseden çekildi.
+2020-06-27 17:16:59.047 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:16:59.108 +03:00 [DBG] Tüm haberler databaseden çekildi.
+2020-06-27 17:17:00.563 +03:00 [DBG] Tüm haberler anasayfa gösterildi.
+2020-06-27 17:17:00.619 +03:00 [DBG] Tüm haberler databaseden çekildi.

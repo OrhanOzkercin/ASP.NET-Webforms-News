@@ -1,0 +1,213 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@400;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto:wght@400;500&display=swap');
+
+:root {
+    --primary-color: #EEB3AA;
+    --secondary-color: #f2f5f4;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2rem;
+}
+
+i {
+    width: 36px;
+    height: 36px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background: var(--primary-color);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        opacity: 0.7;
+    }
+
+.main-container {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+}
+
+.sidebar {
+    background: var(--primary-color);
+    min-height: 100vh;
+    border-right: 2px solid #dddddd;
+    color: #000;
+}
+
+.logo {
+    font-family: 'MuseoModerno', cursive;
+    font-size: 4rem;
+    margin: 50px;
+}
+
+.nav-container {
+    margin: 10px 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+    .nav-container li:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+
+.time {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #292525;
+    padding: 2rem 0;
+}
+
+.content-area {
+    background: var(--secondary-color);
+}
+
+.content-container {
+    margin: 50px;
+    min-height: 100vh;
+    border-radius: 50px;
+}
+
+.card-container {
+    padding: 0px 0 0 10px;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(650px, 1fr) );
+    justify-items: center;
+    overflow: hidden;
+}
+
+.card {
+    width: 730px;
+    height: 300px;
+    display: flex;
+    margin: 10px;
+    justify-items: center;
+    position: relative;
+    /* background: #f9caa7; */
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.5);
+}
+
+    .card .card-header img {
+        width: 250px;
+        height: 100%;
+        padding: 20px;
+        border-radius: 30px;
+        background-size: cover;
+    }
+
+    .card .card-body .title h2 {
+        font-size: 1.2rem;
+        line-height: 1.3;
+        padding: 20px 0;
+    }
+
+    .card .card-body .content {
+        font-size: 1rem;
+        line-height: 1.3;
+        margin: 0 40px 40px 0;
+        text-align: justify;
+    }
+
+        .card .card-body .content .pub-date {
+            float: right;
+            margin: 40px 10px;
+            font-family: inherit;
+            font-weight: 500;
+            color: #D9654C;
+        }
+
+    .card .card-body a {
+        text-decoration: none;
+        color: #000;
+    }
+
+        .card .card-body a:focus,
+        .card .card-body a:visited,
+        .card .card-body a:hover {
+            text-decoration: none;
+        }
+
+.news-detail-container {
+    grid-template-columns: 1fr 5fr 1fr;
+}
+
+
+.news-detail {
+    margin: 70px;
+    line-height: 1.7;
+}
+
+    .news-detail > .news-body > img + div {
+        display: flex;
+        justify-content: space-between;
+        margin: 1rem 0;
+        align-items: center;
+        color: #d9654c;
+    }
+
+    .news-detail .news-header {
+        display: flex;
+        flex-direction: column;
+    }
+
+        .news-detail .news-header h1 {
+            font-size: 2rem;
+            margin: 20px 0 40px 0;
+        }
+
+        .news-detail .news-header p {
+            color: #d9654c;
+        }
+
+    .news-detail .news-body {
+        display: flex;
+        flex-direction: column;
+    }
+
+        .news-detail .news-body img {
+            max-width: 700px;
+            align-self: center;
+        }
+
+       
+        .news-detail .news-body * + * {
+            margin: 1rem 0;
+            text-align: justify;
+        }
+
+
+.right-sidebar {
+    margin-right: 3rem;
+}
